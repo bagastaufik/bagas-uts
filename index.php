@@ -101,7 +101,7 @@ include './config/db.php';
 									});    
 									},10);  
 									window.setTimeout(function(){ 
-									window.location.replace('./dashboard.php');
+									window.location.replace('./admin/dashboard.php');
 									} ,3000);   
 									</script>";
 					} else {

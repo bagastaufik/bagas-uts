@@ -4,5 +4,5 @@ deployment:
     - export DEPLOYPATH=/home/java2779/public_html/bagastaufik_UTS
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp -r admin $DEPLOYPATH
-     - /bin/cp -r assets $DEPLOYPATH
-      - /bin/cp -r config $DEPLOYPATH
+    - /bin/cp -r assets $DEPLOYPATH
+    - /bin/cp -r config $DEPLOYPATH
